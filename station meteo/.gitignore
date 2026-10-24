@@ -1,0 +1,7 @@
+build/
+.cmake/
+.vscode/
+*.elf
+*.bin
+*.hex
+*.map
